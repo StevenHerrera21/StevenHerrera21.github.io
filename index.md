@@ -1,4 +1,4 @@
-## Página Visión por computador
+## Página Visión por computador Steven Herrera
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
